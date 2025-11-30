@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   id="svg5302"
+   version="1.1"
+   viewBox="0 0 523.44611 49.393995"
+   height="186.68596"
+   width="1978.379">
+
+  <g
+     transform="translate(329.75878,-44.005383)"
+     id="layer1">
+    <g
+       transform="translate(3.1872915,-48.131515)"
+       id="g5873">
+      <rect
+         style="opacity:1;fill:#112694;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.26458332;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+         id="rect4696"
+         width="523.02148"
+         height="21.849461"
+         x="-338.7944"
+         y="101.99162"
+         transform="rotate(-3.0221666)" />
+      <rect
+         transform="matrix(-0.99860921,-0.0527223,-0.0527223,0.99860921,0,0)"
+         y="109.50173"
+         x="-196.54649"
+         height="21.849459"
+         width="523.02148"
+         id="rect4700"
+         style="opacity:1;fill:#81d4fa;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.26458332;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal" />
+    </g>
+  </g>
+</svg>
