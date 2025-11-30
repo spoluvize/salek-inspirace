@@ -55,3 +55,20 @@ form input, form select, form textarea{width:100%;padding:0.6rem;border:1px soli
   display: inline-block;
   pointer-events: none;
 }
+/* Strong override pro oddělovač */
+.divider {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 2.5rem 0;
+  pointer-events: none;
+}
+
+.divider img {
+  width: 140px !important;      /* pevná šířka */
+  max-width: 140px !important;  /* zabrání škálování na 100% */
+  height: auto !important;
+  display: block !important;
+  opacity: 0.95;
+  pointer-events: none;
+}
