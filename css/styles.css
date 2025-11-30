@@ -38,3 +38,20 @@ form input, form select, form textarea{width:100%;padding:0.6rem;border:1px soli
   .hero-inner{flex-direction:column}
   .nav{display:none}
 }
+/* Oddělovač mezi sekcemi */
+.divider {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 2.5rem 0;        /* mezery */
+  color: var(--accent);    /* barva oddělovače (nebo var(--primary), pokud chceš) */
+}
+
+.divider img {
+  width: 140px;            /* Velikost oddělovače */
+  max-width: 40%;          /* Přizpůsobení na malých displejích */
+  height: auto;
+  opacity: 0.9;            /* Jemnější vzhled */
+  display: inline-block;
+  pointer-events: none;
+}
