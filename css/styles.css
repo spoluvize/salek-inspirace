@@ -72,3 +72,15 @@ form input, form select, form textarea{width:100%;padding:0.6rem;border:1px soli
   opacity: 0.95;
   pointer-events: none;
 }
+/* STRONG override pro oddělovač — končí soubor */
+.divider { display:flex; justify-content:center; align-items:center; margin:2.5rem 0; }
+.divider > img,
+.divider img {
+  width:140px !important;
+  max-width:140px !important;
+  min-width:0 !important;
+  height:auto !important;
+  display:block !important;
+  object-fit:contain !important;
+  pointer-events:none !important;
+}
